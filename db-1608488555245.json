@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "title": "Patch POST",
+      "author": "Yurk-do",
+      "id": 1
+    },
+    {
+      "title": "EDITED POST 2",
+      "id": 2
+    },
+    {
+      "title": "How to work with json server, part 2",
+      "author": "frontender, part Jr.",
+      "id": 3
+    },
+    {
+      "title": "Demo post",
+      "author": "frontende Sr..",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
